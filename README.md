@@ -1,2 +1,2 @@
 # Mesirot Game
-![](images/Mesirot game.png)
+![](image/MesirotGame.png)
