@@ -5,8 +5,6 @@ The ball moves at a constant speed.
 
 <br/>
 <br/>
-<br/>
-
 ![](image/MesirotGame.png)
  <br/>
 In the **video** folder there is a simulation of the game.  
