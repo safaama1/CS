@@ -8,6 +8,3 @@ The ball moves at a constant speed.
 ![](image/MesirotGame.png)
 
 <br/>
-
-In the **video** folder there is a simulation of the game.  
-
