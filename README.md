@@ -4,7 +4,6 @@ The player who has the ball is the green circle and the other player he chose to
 The ball moves at a constant speed.
 
 <br/>
-<br/>
 
 ![](image/MesirotGame.png)
 
