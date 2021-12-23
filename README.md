@@ -5,7 +5,7 @@ The game starts with an initial number of players (the number is set in the cons
 The number of players is determined before the game starts, as well as the playing time.<br/>
 
 <br/>
-
+_You can see the simulation in the attached picture: You can see the ball in flight from number 8 to number 2 (the simulator paints the thrower in green and the stick in red)._
 ![](image/MesirotGame.png)
 <br/>
 
