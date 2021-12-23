@@ -13,7 +13,7 @@ _On the attached picture you can see the ball in flight from number 8 to number 
 ![](image/MesirotGame.png)
 <br/>
 
-_The Video folder also contains a video of the simulator in action_.
+_The [video](https://github.com/user/repo/blob/branch/other_file.md) folder also contains a video of the simulator in action_.
 
 <br/>
 
