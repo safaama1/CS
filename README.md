@@ -7,6 +7,7 @@ The number of players is determined before the game starts, as well as the playi
 <br/>
 
 ![](image/MesirotGame.png)
+The Video folder also contains a video of the simulator in action.
 
 <br/>
 
