@@ -7,11 +7,13 @@ The number of players is determined before the game starts, as well as the playi
 <br/>
 
 ![](image/MesirotGame.png)
-The Video folder also contains a video of the simulator in action.
+<br/>
+
+_The Video folder also contains a video of the simulator in action_.
 
 <br/>
 
-Each player runs on their own **__thread__** and is active for a set amount of time, which is determined when they are created. The player's activity time is a random variable determined by a lottery according to a normal distribution, which gives the mean and variance of the activity time.<br/>
+Each player runs on their own **_thread_** and is active for a set amount of time, which is determined when they are created. The player's activity time is a random variable determined by a lottery according to a normal distribution, which gives the mean and variance of the activity time.<br/>
 The mean and variance are parameters of the game that are set in the `Game` constructor.<br/>
 Also in the king of the game, more players are added to the game. The parameters that determine the arrival time of a new player are set in the `Game` constructor and are: the mean and variance of the arrival time of a new player.<br/>
 The difference between player arrival times is a random variable drawn according to a normal distribution when the mean and variance are given and constant throughout the game.<br/>
