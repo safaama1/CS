@@ -18,7 +18,7 @@ _The [video](https://github.com/safaama1/Mesirot-Game/tree/main/video) folder al
 <br/>
 
 Each player runs on their own **_thread_** and is active for a set amount of time, which is determined when they are created. The player's activity time is a random variable determined by a lottery according to a normal distribution, which gives the mean and variance of the activity time.<br/>
-The mean and variance are parameters of the game that are set in the `Game` constructor.<br/>
-Also in the king of the game, more players are added to the game. The parameters that determine the arrival time of a new player are set in the `Game` constructor and are: the mean and variance of the arrival time of a new player.<br/>
+The mean and variance are parameters of the game that are set in the [`Game`](https://github.com/safaama1/Mesirot-Game/blob/main/Game.java) constructor.<br/>
+Also in the king of the game, more players are added to the game. The parameters that determine the arrival time of a new player are set in the [`Game`](https://github.com/safaama1/Mesirot-Game/blob/main/Game.java) constructor and are: the mean and variance of the arrival time of a new player.<br/>
 The difference between player arrival times is a random variable drawn according to a normal distribution when the mean and variance are given and constant throughout the game.<br/>
 Each player has a unique name. The name is a serial number based on the order of entry into the game.<br/>
